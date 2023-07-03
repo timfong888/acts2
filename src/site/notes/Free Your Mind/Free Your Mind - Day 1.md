@@ -6,8 +6,6 @@
 
 Monday, July 3rd 2023 
 
-
-
 Does your mind need to be set free?
 
 You probably think this is a very strange idea.
