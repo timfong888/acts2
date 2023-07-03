@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-your-mind/free-from-small-dwellings-day-4/"}
+{"dg-publish":true,"permalink":"/free-your-mind/free-from-small-dwellings-day-4/","created":"","updated":""}
 ---
 
 
