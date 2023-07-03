@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mans-marriage-manual/the-therapy-trap/therapy-will-destroy-your-marriage/"}
+{"dg-publish":true,"permalink":"/the-mans-marriage-manual/the-therapy-trap/therapy-will-destroy-your-marriage/","created":"","updated":""}
 ---
 
 
