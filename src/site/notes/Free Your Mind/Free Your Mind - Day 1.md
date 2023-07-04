@@ -4,7 +4,7 @@
 
 
 
-Monday, July 3rd 2023 
+**Monday, July 3rd 2023** 
 
 Does your mind need to be set free?
 
