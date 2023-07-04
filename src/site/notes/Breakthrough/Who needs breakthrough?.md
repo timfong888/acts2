@@ -48,7 +48,7 @@ This short book was designed to help you get there. Not just unstuck.
 
 But to experience God’s breakthrough.
 
-Did you know that God is described by David as "God of the breakthrough"?
+**Did you know that God is described by David as "God of the breakthrough"?**
 <!--- convertful --->
 <div class="convertful-210149"></div>
 
