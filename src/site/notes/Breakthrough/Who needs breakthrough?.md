@@ -49,6 +49,10 @@ This short book was designed to help you get there. Not just unstuck.
 But to experience God’s breakthrough.
 
 Did you know that God is described by David as "God of the breakthrough"?
+<!--- convertful --->
+<div class="convertful-210149"></div>
+
+
 
 Take a moment to let that sink in. When I reflect on that, I tingle with anticipation. It's awesome to know, believe, and trust this as something right out of Scripture.
 
