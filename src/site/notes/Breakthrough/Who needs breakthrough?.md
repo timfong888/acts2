@@ -63,20 +63,6 @@ But to experience God’s breakthrough.
 <!--- convertful --->
 <div class="convertful-210149"></div>
 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-<!--- convertful --->
-<div class="convertful-210149"></div>
-
-
-
-</div></div>
-
-
 Take a moment to let that sink in. When I reflect on that, I tingle with anticipation. It's awesome to know, believe, and trust this as something right out of Scripture.
 
 Because breakthrough can mean different things to different people, let's start by grounding ourselves in definitions based on God's Word.
