@@ -69,6 +69,16 @@ My podcast is available on most major platforms and gives you a chance to hear m
 
 https://acts2.xyz/breakthrough/podcast
 
+
+### Samples from my Audio course
+My audio course will help you to build the habits and thinking to breakthrough.  Dedicated audio means you can listen and re-listen easily, and small nuggets through God's word can help shift your life into Breakthrough.
+
+Here are some samples if you're still not ready:
+
+- [Overview of Breakthrough](https://mysoundwise.com/episodes/16244985672829053e)
+- [Why You Why Now](https://mysoundwise.com/episodes/16244330053561460e)
+- [Overview of Catalysts](https://mysoundwise.com/episodes/16244330053561460e)
+
 ### Get the YouVersion Bible devotional
 Study Scripture using the Bible.com app to learn more about Breakthrough:
 
