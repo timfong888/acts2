@@ -61,7 +61,8 @@ Here’s the most common pitfall when it comes to facing the self-help instinct:
 
 
 
-If you want to start your journey to Breakthrough, check out more content.  I spend time studying the Scriptures to ensure it is both truthful to the Gospel, but also represents real world application to your life.
+# Breakthrough Links
+If you want to start your journey to **Breakthrough**, check out more content.  I spend time studying the Scriptures to ensure it is both truthful to the Gospel, but also represents real world application to your life.
 
 ### Subscribe to my Podcast
 My podcast is available on most major platforms and gives you a chance to hear my latest thoughts and teachings, not only on Breakthrough, but a range of other things.
@@ -77,7 +78,7 @@ Study Scripture using the Bible.com app to learn more about Breakthrough:
 Read some more key writings and teachings here:
 
 - [[Breakthrough/Self Help Is No Help\|Self Help Is No Help]]
-- [[Breakthrough/Who needs breakthrough?\|Who needs breakthrough?]]
+- [[Breakthrough/Who Needs Breakthrough?\|Who Needs Breakthrough?]]
 
 
 
