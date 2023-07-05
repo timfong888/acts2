@@ -38,7 +38,16 @@ What is hard, however, is taking the steps that we can control to let God in for
 
 Grace, the ability to come before God without guilt, takes no effort other than faith in Christ. Our life on earth, filled with challenges and heart-aches, on the other hand, involve decisions, actions, choices — all on our side, with no promise we will get what we want.
 
-[![breakthrough-rectangle.jpg|800](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/buy-breakthrough)
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[![breakthrough-rectangle.jpg|600](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/buy-breakthrough)
+
+
+</div></div>
+
 
 
 David, when he encountered the “God of the breakthrough,” took some specific actions, and this is what will direct much of the suggested steps in this book.
@@ -46,3 +55,30 @@ David, when he encountered the “God of the breakthrough,” took some specific
 The foundation, however, is always Christ and the biggest breakthrough he already made in your life: to die so you may live.
 
 Here’s the most common pitfall when it comes to facing the self-help instinct: to wrest control and do things our own way.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+If you want to start your journey to Breakthrough, check out more content.  I spend time studying the Scriptures to ensure it is both truthful to the Gospel, but also represents real world application to your life.
+
+### Subscribe to my Podcast
+My podcast is available on most major platforms and gives you a chance to hear my latest thoughts and teachings, not only on Breakthrough, but a range of other things.
+
+https://acts2.xyz/breakthrough/podcast
+
+### Get the YouVersion Bible devotional
+Study Scripture using the Bible.com app to learn more about Breakthrough:
+
+[https://www.bible.com/reading-plans/3489](https://www.bible.com/reading-plans/3489)
+
+### Valuable Posts
+Read some more key writings and teachings here:
+
+- [[Breakthrough/Self Help Is No Help\|Self Help Is No Help]]
+- [[Breakthrough/Who needs breakthrough?\|Who needs breakthrough?]]
+
+
+
+</div></div>
