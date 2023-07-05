@@ -37,12 +37,11 @@ But God, “like a raging flood,” saved him, and “burst through.”
 This is the picture of breakthrough that I want for you.
 
 
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-[![breakthrough-rectangle.jpg|800](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/buy-breakthrough)
+[![breakthrough-rectangle.jpg|600](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/buy-breakthrough)
 
 
 </div></div>
