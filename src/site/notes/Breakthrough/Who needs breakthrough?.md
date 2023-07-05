@@ -155,3 +155,30 @@ If you could define breakthrough in your life, what would it look like?
 What are ways you have tried on your own strength to have a breakthrough? And how did that turn out!
 
 In the next chapter, I am going to share in more detail why the common “self help” route could lead to disappointment.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+If you want to start your journey to Breakthrough, check out more content.  I spend time studying the Scriptures to ensure it is both truthful to the Gospel, but also represents real world application to your life.
+
+### Subscribe to my Podcast
+My podcast is available on most major platforms and gives you a chance to hear my latest thoughts and teachings, not only on Breakthrough, but a range of other things.
+
+https://acts2.xyz/breakthrough/podcast
+
+### Get the YouVersion Bible devotional
+Study Scripture using the Bible.com app to learn more about Breakthrough:
+
+[https://www.bible.com/reading-plans/3489](https://www.bible.com/reading-plans/3489)
+
+### Valuable Posts
+Read some more key writings and teachings here:
+
+- [[Breakthrough/Self Help Is No Help\|Self Help Is No Help]]
+- [[Breakthrough/Who needs breakthrough?\|Who needs breakthrough?]]
+
+
+
+</div></div>
