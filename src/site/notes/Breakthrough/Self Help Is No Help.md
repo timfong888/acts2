@@ -15,7 +15,9 @@ Here’s what Jesus says:
 
 > Self-help is no help at all. Self-sacrifice is the way, my way, to saving yourself, your true self. (Mark 8:35)
 
-When it comes to being accepted fully by God, Jesus frees us from any notion that we can or should do anything. We can’t. However, he does not say we do nothing. We can’t do anything to gain favor with God, for Christ at the cross, alone, does this. But we are to do much more than do nothing, either.
+When it comes to being accepted fully by God, Jesus frees us from any notion that we can or should do anything. We can’t. However, he does not say we do nothing. We can’t do anything to gain favor with God, for Christ at the cross, alone, does this. 
+
+But we are to do much more than do nothing, either.
 
 <!--- convertful --->
 <div class="convertful-210149"></div>
@@ -36,7 +38,7 @@ What is hard, however, is taking the steps that we can control to let God in for
 
 Grace, the ability to come before God without guilt, takes no effort other than faith in Christ. Our life on earth, filled with challenges and heart-aches, on the other hand, involve decisions, actions, choices — all on our side, with no promise we will get what we want.
 
-[![breakthrough-rectangle.jpg|800](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/soundwise)
+[![breakthrough-rectangle.jpg|800](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/buy-breakthrough)
 
 
 David, when he encountered the “God of the breakthrough,” took some specific actions, and this is what will direct much of the suggested steps in this book.
