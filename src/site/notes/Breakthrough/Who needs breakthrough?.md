@@ -35,7 +35,18 @@ Take a moment to let the picture really sink deep within your imagination. David
 But God, “like a raging flood,” saved him, and “burst through.”
 
 This is the picture of breakthrough that I want for you.
-[![breakthrough-rectangle.jpg](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/soundwise)
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[![breakthrough-rectangle.jpg|800](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/buy-breakthrough)
+
+
+</div></div>
+
 
 
 As I wrote this book and studied the Scripture, I realized that there are two common ways people seek to get themselves unstuck: self help and wishful thinking.
@@ -52,6 +63,18 @@ But to experience God’s breakthrough.
 <!--- convertful --->
 <div class="convertful-210149"></div>
 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+<!--- convertful --->
+<div class="convertful-210149"></div>
+
+
+
+</div></div>
 
 
 Take a moment to let that sink in. When I reflect on that, I tingle with anticipation. It's awesome to know, believe, and trust this as something right out of Scripture.
