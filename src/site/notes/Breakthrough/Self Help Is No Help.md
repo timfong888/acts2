@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/breakthrough/self-help-is-no-help/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/breakthrough/self-help-is-no-help/","noteIcon":"","created":"","updated":""}
 ---
 
 
@@ -55,6 +55,10 @@ David, when he encountered the “God of the breakthrough,” took some specific
 The foundation, however, is always Christ and the biggest breakthrough he already made in your life: to die so you may live.
 
 Here’s the most common pitfall when it comes to facing the self-help instinct: to wrest control and do things our own way.
+
+[![breakthrough-rectangle.jpg|600](/img/user/Breakthrough/attachments/breakthrough-rectangle.jpg)](http://pix.acts2.xyz/buy-breakthrough)
+
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
