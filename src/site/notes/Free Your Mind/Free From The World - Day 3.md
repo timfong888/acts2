@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-your-mind/free-from-the-world-day-3/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/free-your-mind/free-from-the-world-day-3/","created":"2023-06-02T07:13:09.240-07:00","updated":"2023-07-03T16:36:29.712-07:00"}
 ---
 
 
