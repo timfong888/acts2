@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/breakthrough/self-help-is-no-help/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/breakthrough/self-help-is-no-help/","created":"2023-07-04T08:26:10.891-07:00","updated":"2023-08-13T22:52:30.993-07:00"}
 ---
 
 
