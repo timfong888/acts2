@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mans-marriage-manual/challenges-facing-men/challenges-facing-men/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/the-mans-marriage-manual/challenges-facing-men/challenges-facing-men/","created":"2023-03-03T17:31:12.053-08:00","updated":"2023-03-03T18:11:03.299-08:00"}
 ---
 
 
