@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-your-mind/free-from-the-past-day-5/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/free-your-mind/free-from-the-past-day-5/","created":"2023-06-23T12:33:03.015-07:00","updated":"2023-07-03T17:33:17.910-07:00"}
 ---
 
 
