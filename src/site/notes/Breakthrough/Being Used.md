@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/breakthrough/being-used/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/breakthrough/being-used/","created":"2023-07-05T12:57:07.416-07:00","updated":"2023-08-13T22:51:57.299-07:00"}
 ---
 
 
@@ -55,6 +55,7 @@ The person who allows God to burst force through themselves **surrenders to God
 The person knows God's word and, from there, seeks what to do instead of instructing themselves from visions and emotions of their own making.
 
 **Let's become an instrument for God's breakthrough through obedience.**
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
