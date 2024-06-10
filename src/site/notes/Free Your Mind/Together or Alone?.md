@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"free-your-mind-together-or-alone","permalink":"/free-your-mind-together-or-alone/","metatags":{"description":"Today, we continue exploring nonconformity and renewing the mind. There are two key parts to transformation - the sudden renewal and the ongoing community.","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1691990584/obsidian/image_fuzzqk.png","og:image:alt":"an image of someone at a fork in the road back to the view, in the style of Carlos Cazares"},"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"free-your-mind-together-or-alone","permalink":"/free-your-mind-together-or-alone/","metatags":{"description":"Today, we continue exploring nonconformity and renewing the mind. There are two key parts to transformation - the sudden renewal and the ongoing community.","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1691990584/obsidian/image_fuzzqk.png","og:image:alt":"an image of someone at a fork in the road back to the view, in the style of Carlos Cazares"},"created":"2023-08-13T12:42:34.766-07:00","updated":"2023-08-13T22:23:37.626-07:00"}
 ---
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1691990584/obsidian/image_fuzzqk.png)
