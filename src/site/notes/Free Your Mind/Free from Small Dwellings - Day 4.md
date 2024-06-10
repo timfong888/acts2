@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/free-your-mind/free-from-small-dwellings-day-4/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/free-your-mind/free-from-small-dwellings-day-4/","created":"2023-06-20T07:39:11.940-07:00","updated":"2023-08-13T22:49:56.311-07:00"}
 ---
 
+<iframe id="bCastiFrm4n90pz78" src="https://player.bcast.fm/ignite-sf/4n90pz78-free-your-mind-small-dwellings" frameborder="0" height="180" width="100%" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 Dwelling on the small things is another way to imprison your mind.
 
