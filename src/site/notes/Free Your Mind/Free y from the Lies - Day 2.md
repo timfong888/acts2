@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-your-mind/free-y-from-the-lies-day-2/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/free-your-mind/free-y-from-the-lies-day-2/","created":"2023-05-31T09:52:16.325-07:00","updated":"2023-07-03T16:36:10.787-07:00"}
 ---
 
 
