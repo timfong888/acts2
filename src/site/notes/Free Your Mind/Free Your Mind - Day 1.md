@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-your-mind/free-your-mind-day-1/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/free-your-mind/free-your-mind-day-1/","created":"2023-05-31T09:40:47.975-07:00","updated":"2023-07-03T17:33:30.967-07:00"}
 ---
 
 
