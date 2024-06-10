@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/five-fold/the-subtle-enemies-of-your-gifts/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/five-fold/the-subtle-enemies-of-your-gifts/","created":"2023-07-03T17:35:32.948-07:00","updated":"2023-07-03T17:36:05.750-07:00"}
 ---
 
 
