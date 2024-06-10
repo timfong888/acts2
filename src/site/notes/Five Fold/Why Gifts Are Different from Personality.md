@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/five-fold/why-gifts-are-different-from-personality/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/five-fold/why-gifts-are-different-from-personality/","created":"2023-07-03T17:36:46.514-07:00","updated":"2023-07-03T17:37:23.638-07:00"}
 ---
 
 
