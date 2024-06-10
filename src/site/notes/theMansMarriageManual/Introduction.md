@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-mans-marriage-manual/introduction/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/the-mans-marriage-manual/introduction/","tags":["gardenEntry"],"created":"2023-03-01T23:09:44.437-08:00","updated":"2023-03-03T18:11:45.404-08:00"}
 ---
 
 
