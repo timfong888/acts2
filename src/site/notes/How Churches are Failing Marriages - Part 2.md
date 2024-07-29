@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T17:40:47.086-07:00"}
+{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T17:50:19.027-07:00"}
 ---
 
 
@@ -45,7 +45,42 @@ And it is on this thread that I'll share.
 
 Warning: this may shock and scare you, because the conventions in many churches are often mistakenly accepted as good and healthy turns out, to not be.
 
-The first is a focus on *feelings*.  How do people.
+The first is a focus on *feelings*.  How do the people in the marriage *feel* is considered the source truth of all things.
+
+And as a result, most pastoral ministers focus on improving the *communication* of those feelings as the primary method of healing the relationship.
+
+I have experienced how this is a failure.  I've studied how this is the prevalent mode -- and also has led to failure.
+
+This is a methodology with deep roots in the *therapeutical model* ... a model that has now been accepted as the primary form of ministry in mainstream churches.  If you keep reading, you'll learn why this has such a stranglehold on churches, it's origins, and the impact.
+
+The second focus is identifying *bad symptoms* as the means of remediation.
+
+Sometimes understanding the fact that things are better is a good base line.
+
+If we use the medical example, it's good to acknowledge someone has headaches, is vomiting, and shortness of breath.  Without knowing the symptoms, you can go to find the root cause.
+
+The root cause is what matters.
+
+But my experience and, this is reinforced by the therapy model, is it often spends alot of time focusing on the symptoms.
+
+The pastor we worked with for our marriage spent time reminding us of the four horsemen of marriages, which was popularized by a secular marriage therapist, John Gottman.
+
+They are symptoms like strong arming, withdrawing, criticism, and x.
+
+But our sessions would go like the following: "See, I see you guys in in these four horsemen, again."
+
+And that would be the end...we would spend our time talking (communicating the emotions), which would hten get us to augment and heighten that communication -- which would reveal the symptoms, and the pastor would point out: "see you guys are again in these four horsemen which predict divorce."
+
+That was the bulk of the session typically.
+
+Three: God will change it miraculously.
+
+At the end of the session, often it would be a prayer -- no real means to act upon it, just that we hope and pray that God would change it.
+
+While we do believe God *can* do things in the world, there are very severe theological untruths to this assumption.  What happens when nothing changes?
+
+It now places the problem and burden upon God.
+
 
 ...
 
