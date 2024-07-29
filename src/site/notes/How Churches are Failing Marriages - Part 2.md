@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T17:39:59.928-07:00"}
+{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T17:40:47.086-07:00"}
 ---
 
 
@@ -70,7 +70,7 @@ Unfortunately, doctrine is the furthest from most people's minds when it comes t
 
 Doctrine has been kicked into the dusty bin for theologians and divinity school, for tweed-wearing intellectuals and King James quoting fire-and-brimstone preachers.
 
-<mark style="background: #FF5582A6; color: white;">**However, without doctrine, *What do we have?"**</mark>
+**<mark style="background: #FF5582A6; color: white;">However, without doctrine, *What do we have?"</mark>**
 
 Jesus *is* the Word.  Jesus *is* the Truth.
 
