@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T18:05:07.073-07:00"}
+{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T18:09:51.012-07:00"}
 ---
 
 
@@ -130,4 +130,17 @@ Jesus *is* the Word.  Jesus *is* the Truth.
 Jesus is the Truth, and doctrine is the means in which believers converge upon the Truth by relying upon the Word.
 
 > “In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made… The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.” -- **John 1:1-3, 14**
+
+### Recap
+What have we covered in this essay?
+
+1. Many churches *lack competence* in building strong marriages
+2. The common methods they use don't work because they are rooted in the wrong things.
+3. The reason for the two types of failure - lack of care, lack of competence - is from a veering away from doctrine
+4. Jesus *was* doctrine in the flesh -- so to ignore the truth is to fail to abide in Christ
+5. Without Christ, the foundation to whatever marital program will fail
+
+In the next essay, I'll share why this should not come to any surprise.
+
+That if we accept that marriage illustrates the relationship between Christ and his church, that the same challenges churches have are being mirrored and amplified in the teachings they have on marriage.
 
