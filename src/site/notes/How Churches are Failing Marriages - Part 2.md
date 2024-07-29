@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T17:53:40.409-07:00"}
+{"dg-publish":true,"dg-permalink":"how-churches-are-failing-marriages-2","permalink":"/how-churches-are-failing-marriages-2/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":"How Churches are Failing Marriages","og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-07-27T11:05:48.917-07:00","updated":"2024-07-28T18:05:07.073-07:00"}
 ---
 
 
@@ -79,7 +79,23 @@ At the end of the session, often it would be a prayer -- no real means to act up
 
 While we do believe God *can* do things in the world, there are very severe theological untruths to this assumption.  What happens when nothing changes?
 
-It now places the problem and burden upon God.
+It now places the problem and burden upon God solely for some kind of a miracle.  It's not that I *don't* believe that God can't work in it.
+
+It's that I believe churches *have* an active role *other than prayer.*
+
+IF all things fall to *just* prayer, our religion becomes not much different than magical thinking, new age manifestations.  
+
+Four: Men are the problem.
+
+This fallacy may not rear its head explicitly stating this...but with several pastors, it tended to land there.
+
+Men will always be *held* accountable in the marriage *regardless of their role*, and I will talk about what men need to do in the face of this reality.  This is *not* a good thing that should be reinforced by pastors, however.
+
+This is another theological fallacy, supported by the cultural winds, that will damage society and marriages.
+
+Five: The lure of the 'false peace'
+
+
 
 
 ...
@@ -105,7 +121,7 @@ Unfortunately, doctrine is the furthest from most people's minds when it comes t
 
 Doctrine has been kicked into the dusty bin for theologians and divinity school, for tweed-wearing intellectuals and King James quoting fire-and-brimstone preachers.
 
-However, without doctrine, what else do we have?
+<mark style="background: #FF5582A6; color: white;">However, without doctrine, what else do we have?</mark>
 
 Jesus *is* the Word.  Jesus *is* the Truth.
 
