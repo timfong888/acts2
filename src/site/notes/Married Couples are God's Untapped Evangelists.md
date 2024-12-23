@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/married-couples-are-god-s-untapped-evangelists/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"2024-04-14T08:12:52.043-07:00","updated":"2024-04-21T06:35:53.045-07:00"}
+{"dg-publish":true,"permalink":"/married-couples-are-god-s-untapped-evangelists/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"2024-04-14T08:12:52.043-07:00","updated":"2024-07-26T07:51:56.415-07:00"}
 ---
 
 
@@ -97,5 +97,5 @@ One such pairing that is certainly a part of hte church are married couples.
 
 But I bet this happens far less than it should.
 
-Which leads me to my hot take, that [[Churches Don't Really Care bout Marriages\|Churches Don't Really Care bout Marriages]].
+Which leads me to my hot take, that [[How Churches are Failing Marriages\|How Churches are Failing Marriages]].
 

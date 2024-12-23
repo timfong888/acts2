@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-churches-are-failing-marriages/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"2024-04-21T06:35:59.103-07:00","updated":"2024-07-26T08:22:42.234-07:00"}
+{"dg-publish":true,"permalink":"/how-churches-are-failing-marriages/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"2024-04-21T06:35:59.103-07:00","updated":"2024-07-28T18:10:25.882-07:00"}
 ---
 
 
@@ -7,9 +7,9 @@
 
 In the last article, [[Why is marriage like the church?\|Why is marriage like the church?]], I wrote that the *purpose* of the church is wrapped up in the *message* behind marriages. 
 
-If the *primary* purpose of the church body is to represent and declare the Gospel, then Gospel-reflecting marriages (amongst those for whom marriage is meant for -- and some people have a gift of singleness) should be a close second.
+If the *primary* purpose of the church body is to represent and declare the Gospel, then Gospel-reflecting marriages (amongst those for whom marriage is meant for -- respecting and understanding that some people have a gift of singleness) should be a close second.
 
-Why, then, are churches failing marriages?
+**Why, then, are churches failing marriages?**
 
 While the data is unclear, the divorce rate amongst Christian married couples likely is not significantly lower than that amongst secular couples.
 
@@ -63,5 +63,36 @@ What are those outputs?
 4. Leaders training -- How much training have the elders received so that they are able to augment marriage counseling?
 5. Budgets -- How much of the budget is allocated to marriage-related activities?
 
+### But what about marriage ministries?
+There *are* some good marriage ministries!
 
-I mentioned earlier that there is at least *one* 
+In fact, I would include my writing and teaching as one of them.
+
+The problem is these are often treated as *supplemental* -- and as such, aren't a concerted effort by either you or your church.
+
+Your church may once a year invite a speaker.  That's good (depending on the speaker).
+
+But is it enough?
+
+Often, these ministries are treated as para-ministries that parachute into a church, deliver a workshop, and depart.
+
+So back to signs of importance: if a surgeon that was about to operate on you said that their preparation was to drop into a heart surgery workshop once or twice a year, how would you feel?
+
+Marriage is heart surgery.
+
+And the level of preparation, investment, and *care* is minimal.
+
+So now that I've set the table for what *you* should look for and look *out* for within your existing church, I'll let the second shoe drop.
+
+I mentioned earlier that there is at least *one* benefit to the church's abdication of marriages as a priority.
+
+In other words, it's actually *good* that they haven't been spending the time and effort to do so.
+
+It's because they largely will say and do the *wrong* things!
+
+It's good that the effort has been substandard, because the content is often misleading at best, damaging to your marriage at worse.
+
+This gets to the heart of the way churches are failing marriages, and I continue that in the next article [[How Churches are Failing Marriages - Part 2\|How Churches are Failing Marriages - Part 2]]
+
+
+

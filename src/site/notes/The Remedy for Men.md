@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-remedy-for-men/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":null,"og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-08-18T08:47:53.591-07:00","updated":"2024-08-18T09:37:25.862-07:00"}
+{"dg-publish":true,"permalink":"/the-remedy-for-men/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png","og:title":null,"og:description":null,"twitter:card":"summary_large_image","twitter:image":null,"twitter:title":null,"twitter:description":null,"twitter:creator":"@JonahXJeremiah","twitter:site":"@JonahXJeremiah"},"created":"2024-08-18T08:47:53.591-07:00","updated":"2024-08-22T12:53:12.389-07:00"}
 ---
 
 
@@ -193,4 +193,3 @@ One of the best ways to deflate this is to imagine this: is the person in a hole
 
 This is **very** common response.
 
-What men want are to get into the 
